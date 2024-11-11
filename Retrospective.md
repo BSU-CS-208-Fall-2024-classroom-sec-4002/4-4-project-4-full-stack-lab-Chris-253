@@ -1,16 +1,17 @@
 # Retrospective
 
-- name: Jane Doe
-- email: janedoe@u.boisestate.edu
+- name: Chris Shoemaker
+- email: christophershoem@u.boisestate.edu
 
 ## Experience
 
-TODO
+So this lab really was just tying everything together and walking through everything we've 
+done up until this point which was a nice addition. A lot of creative freedom given on this lab which is nice.
 
 ## Known issues or Bugs
 
-TODO
+No known issues or bugs
 
 ## Sources used
 
-TODO
+The book, Readme, and walkthrough video
